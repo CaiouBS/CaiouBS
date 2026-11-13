@@ -30,6 +30,8 @@ Projeto acadêmico de desenvolvimento web para facilitar o acesso a informaçõe
 
 [Explorar o Trilha Federal](https://trilhafederal.vercel.app/)
 
+[Explorar o código e as capturas do Trilha Federal](https://github.com/CaiouBS/TrilhaFederal)
+
 ### 05 · Runner Survivor
 
 O jogo que eu gostaria de jogar: corrida contínua, combate e progressão com mecânicas survivor. Desenvolvido em Godot, com GDScript.
