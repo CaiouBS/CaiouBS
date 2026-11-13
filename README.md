@@ -34,6 +34,8 @@ Projeto acadêmico de desenvolvimento web para facilitar o acesso a informaçõe
 
 O jogo que eu gostaria de jogar: corrida contínua, combate e progressão com mecânicas survivor. Desenvolvido em Godot, com GDScript.
 
+[Explorar o código e as capturas do Runner Survivor](https://github.com/CaiouBS/RunnerSurvivor)
+
 > Parte desses projetos é profissional, privada ou está em desenvolvimento. Os links disponíveis aparecem junto de cada projeto.
 
 ## Código para explorar
