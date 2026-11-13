@@ -1,36 +1,61 @@
-# Olá, eu sou o Caio 👋
+# Caio Bertolato Silva
 
-**Engenharia de Computação · Desenvolvimento web · Automações · Interfaces criativas**
+**Engenharia de Computação · Desenvolvimento Web · Automações · Experiências Digitais**
 
-Gosto de problemas que me fazem pensar. Minha parte favorita de desenvolver é experimentar uma ideia, testar possibilidades e finalmente ver aquilo funcionando — mesmo quando o caminho até lá é um pouco confuso.
+![Confuso, mas funciona.](assets/profile-banner.svg)
 
-Estudo Engenharia de Computação no **CEFET-MG** e trabalho com desenvolvimento de lojas e experiências digitais usando **Shopify, Liquid, HTML, CSS e JavaScript**. Também exploro aplicações full-stack, automações e desenvolvimento de jogos.
+Gosto de problemas que me fazem pensar. Questionar uma solução, testar caminhos e transformar uma ideia em algo que funciona é a parte do desenvolvimento que mais me interessa.
 
-## Projetos que contam um pouco dessa história
+Estudo **Engenharia de Computação no CEFET-MG** e trabalho com desenvolvimento de lojas e experiências digitais em **Shopify, Liquid, HTML, CSS e JavaScript**. Também exploro aplicações com React e Next.js, automações, integrações com IA e jogos em Godot.
 
-| Projeto | O desafio | Tecnologias / abordagem |
-| --- | --- | --- |
-| **Plataforma de Sócios do Fórmula Cefast** | Transformar um processo manual em uma experiência de assinaturas e gestão de associados. | Next.js, React, TypeScript, Tailwind CSS, Stripe |
-| **Cheat Code** | Criar uma experiência de e-commerce com identidade própria e interfaces inspiradas em HUD. | Shopify, Liquid, HTML, CSS, JavaScript |
-| **Forgets** | Explorar maneiras de identificar oportunidades de atendimento esquecidas em conversas. | n8n, WhatsApp, PostgreSQL, Redis, IA |
-| **[Trilha Federal](https://trilhafederal.vercel.app/)** | Facilitar a descoberta de instituições públicas e caminhos de ingresso no ensino superior. | Desenvolvimento web · Projeto acadêmico |
-| **Runner Survivor** | Construir o jogo que eu gostaria de jogar, combinando corrida contínua e progressão survivor. | Godot, GDScript |
+Minha curiosidade costuma abrir várias possibilidades. O que dá forma a elas é prototipar, validar e refinar.
 
-> Alguns desses projetos são profissionais, privados ou estão em desenvolvimento. Nem todo código está disponível publicamente; os estudos de caso e demonstrações ajudam a contar o restante da história.
+## Projetos selecionados
 
-## Como eu gosto de construir
+### 01 · Plataforma de Sócios do Fórmula Cefast
 
-**Ideia → questionar a viabilidade → protótipo → teste → implementação → refinamento.**
+Do processo manual à gestão de associados: uma plataforma de assinaturas construída com Next.js, React, TypeScript, Tailwind CSS e Stripe.
 
-Uso IA como ferramenta para explorar caminhos e desafiar soluções, sem pular a parte mais interessante: entender o problema e decidir o que realmente faz sentido construir.
+### 02 · Cheat Code
 
-## Tecnologias com que já trabalhei
+Uma experiência de e-commerce em Shopify com identidade inspirada em HUDs. O trabalho reúne componentes personalizáveis, Liquid e prototipação de interfaces para dar forma à identidade da loja.
 
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS` · `Liquid` · `Shopify` · `C` · `n8n` · `PostgreSQL` · `Godot`
+### 03 · Forgets
 
-## Por aqui
+Um projeto de automação para explorar possíveis oportunidades comerciais esquecidas em conversas. Combina n8n, WhatsApp, PostgreSQL, Redis e IA na investigação desse problema.
 
-- 🌐 [Trilha Federal — projeto no ar](https://trilhafederal.vercel.app/)
-- 💻 [Meus repositórios](https://github.com/CaiouBS?tab=repositories)
+### 04 · Trilha Federal
 
-*Em geral, estou experimentando alguma ideia nova. Às vezes funciona de primeira. A graça costuma estar quando não funciona.*
+Projeto acadêmico de desenvolvimento web para facilitar o acesso a informações sobre instituições públicas, vestibulares e caminhos de ingresso no ensino superior.
+
+[Explorar o Trilha Federal](https://trilhafederal.vercel.app/)
+
+### 05 · Runner Survivor
+
+O jogo que eu gostaria de jogar: corrida contínua, combate e progressão com mecânicas survivor. Desenvolvido em Godot, com GDScript.
+
+> Parte desses projetos é profissional, privada ou está em desenvolvimento. Os links disponíveis aparecem junto de cada projeto.
+
+## Código para explorar
+
+[Hospital · sistema de consultas em C](https://github.com/CaiouBS/Hospital) — aplicação de terminal com listas encadeadas para organizar médicos, pacientes e consultas.
+
+## Ferramentas que uso
+
+- **Web e interfaces:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Shopify e Liquid.
+- **Automações e integrações:** n8n, PostgreSQL, Redis, APIs e Stripe.
+- **Outras experiências:** C, Godot e Git.
+
+## Como eu trabalho
+
+**Ideia → Questionamento → Protótipo → Testes → Implementação → Refinamento.**
+
+Uso IA para explorar possibilidades, analisar soluções e apoiar o desenvolvimento. Entender o problema e decidir o que faz sentido construir continuam sendo parte central do meu trabalho.
+
+## Contato
+
+[GitHub · @CaiouBS](https://github.com/CaiouBS)
+
+---
+
+*Às vezes funciona de primeira. A graça costuma estar quando não funciona.*
