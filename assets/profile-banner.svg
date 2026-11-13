@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Confuso, mas funciona.</title>
+  <desc id="desc">Faixa azul-noite com tipografia branca. À direita, caminhos em azul convergem para um ponto, representando exploração e refinamento.</desc>
+  <rect width="960" height="180" rx="12" fill="#0B1428"/>
+  <rect x="1" y="1" width="958" height="178" rx="11" stroke="#263752" stroke-width="2"/>
+  <path d="M32 32H64M32 32V48M928 148H896M928 148V132" stroke="#4285FF" stroke-width="2"/>
+  <g fill="#F5F7FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5">
+    <text x="56" y="84">Confuso,</text>
+    <text x="56" y="136">mas funciona<tspan fill="#4285FF">.</tspan></text>
+  </g>
+  <g stroke="#263752" stroke-width="1">
+    <path d="M560 36V144M632 36V144M704 36V144M776 36V144M848 36V144"/>
+    <path d="M536 54H888M536 90H888M536 126H888"/>
+  </g>
+  <g stroke="#62758F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M552 54H608L644 90H704L740 126H776L812 90H864"/>
+    <path d="M552 126H596L632 90L668 54H740L776 90H864"/>
+  </g>
+  <path d="M552 90H584L620 126H656L728 54H764L800 90H864" stroke="#4285FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="552" cy="90" r="5" fill="#4285FF"/>
+  <rect x="856" y="82" width="16" height="16" rx="3" fill="#0B1428" stroke="#F5F7FC" stroke-width="2"/>
+  <circle cx="864" cy="90" r="3" fill="#4285FF"/>
+</svg>
